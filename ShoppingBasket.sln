@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasketLibrary", "ShoppingBasketLibrary\ShoppingBasketLibrary.csproj", "{17941F62-C74F-4663-BC26-2538F5232375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingBasketTest", "ShoppingBasketTest\ShoppingBasketTest.csproj", "{D36BFE36-B8AE-4B88-B879-2B68D05117C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17941F62-C74F-4663-BC26-2538F5232375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17941F62-C74F-4663-BC26-2538F5232375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17941F62-C74F-4663-BC26-2538F5232375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17941F62-C74F-4663-BC26-2538F5232375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36BFE36-B8AE-4B88-B879-2B68D05117C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36BFE36-B8AE-4B88-B879-2B68D05117C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36BFE36-B8AE-4B88-B879-2B68D05117C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36BFE36-B8AE-4B88-B879-2B68D05117C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
